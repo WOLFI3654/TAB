@@ -44,6 +44,7 @@ Pre-releases: https://github.com/NEZNAMY/TAB/releases
     <groupId>com.github.NEZNAMY</groupId>
     <artifactId>TAB-API</artifactId>
     <version>2.8.10</version>
+    <scope>provided</scope>
   </dependency>
 </dependencies>
  ```
